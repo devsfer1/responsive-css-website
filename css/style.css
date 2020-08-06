@@ -154,7 +154,7 @@ nav ul li a i {margin-left: 5px;}
 .img-intro {
     width: 100%; 
     height: 80vh; 
-    background: url(imgs/bc1.png);
+    background-image: url(../imgs/bc1.png);
     background-size: cover;
     background-position: center;
     object-fit: cover;
