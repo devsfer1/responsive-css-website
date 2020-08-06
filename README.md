@@ -3,11 +3,9 @@
  Responsive site that I made to train my skills with CSS, I'm still a long way from where I want, but I'm evolving a lot.
 
 
-#### Click [Here](https://devsfe.github.io/responsive-css-website/) to see the Demo 
+ 👉 Click [Here](https://devsfe.github.io/responsive-css-website/) to see the Demo 
 
-
-
-
+    Hope you enjoy it 🖤
 
 ![img1](https://user-images.githubusercontent.com/58652794/89592444-00f91400-d823-11ea-9984-90f42c16b112.PNG)
 
