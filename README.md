@@ -1,9 +1,9 @@
 ## Responsive CSS Website
 
-### Responsive site that I made to train my skills with CSS, I'm still a long way from where I want, but I'm evolving a lot.
+ Responsive site that I made to train my skills with CSS, I'm still a long way from where I want, but I'm evolving a lot.
 
 
-Click [Here](https://devsfe.github.io/responsive-css-website/) to see the Demo 
+#### Click [Here](https://devsfe.github.io/responsive-css-website/) to see the Demo 
 
 
 
