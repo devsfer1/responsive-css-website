@@ -1,11 +1,10 @@
-## Responsive CSS Website
+# Responsive CSS Website
 
- Responsive site that I made to train my skills with CSS, I'm still a long way from where I want, but I'm evolving a lot.
+ Meu primeiro website responsivo feito apenas com HTML e CSS. Pude aprender muito através deste site propriedades como Design Responsivo, Flexbox, Grid etc.
 
+ ### 👉 Clique [Aqui](https://devsfe.github.io/responsive-css-website/) para ver a demonstração.
 
- 👉 Click [Here](https://devsfe.github.io/responsive-css-website/) to see the Demo
-
- #### Hope you enjoy it 🖤
+ #### Feito com todo meu 🖤.
 
 ![img1](https://user-images.githubusercontent.com/58652794/89592444-00f91400-d823-11ea-9984-90f42c16b112.PNG)
 
